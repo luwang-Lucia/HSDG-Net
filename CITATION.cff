@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite the paper below."
+title: "HSDG-Net: A Hessian-Prior-Guided Sparse Directed Graph Network for SAR Ship-Wake Detection"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Lu
+    orcid: "https://orcid.org/0000-0001-5099-0522"
+    affiliation: "Harbin Engineering University"
+repository-code: "https://github.com/luwang-Lucia/HSDG-Net"
+license: Apache-2.0
+year: 2026
+preferred-citation:
+  type: article
+  title: "SCRC-Net: A Structure-Constrained and Representation-Consistent Network for SAR Ship Classification"
+  authors:
+    - family-names: Qi
+      given-names: Yuhang
+    - family-names: Wang
+      given-names: Lu
+    - family-names: Zhao
+      given-names: Chunhui
+    - family-names: Mathiopoulos
+      given-names: "P. Takis"
+    - family-names: Ohtsuki
+      given-names: Tomoaki
+    - family-names: Adachi
+      given-names: Fumiyuki
+  journal: "Pattern Recognition"
+  volume: 180
+  start: 114294
+  year: 2026
+  doi: "10.1016/j.patcog.2026.114294"
